@@ -1,0 +1,3 @@
+1. [The first learning goal in Backend development was git and github where we saw the difference between git and git hub]
+2. [My second learning goal was the github commands where we learnt how to create a repo how to add commit and push it locally to remote] 
+3. [My third learning goal in Backend development was what is XML Json where and how to use them]
